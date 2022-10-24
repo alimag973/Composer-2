@@ -1,0 +1,16 @@
+{
+    "name": "magaliperche/composer-2",
+    "description": "quete composer 2",
+    "autoload": {
+        "psr-4": {
+            "Magaliperche\\Composer2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Magali Perche",
+            "email": "magali.per@hotmail.fr"
+        }
+    ],
+    "require": {}
+}
